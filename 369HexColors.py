@@ -1,3 +1,5 @@
+#Challenge from https://www.reddit.com/r/dailyprogrammer/comments/a0lhxx/20181126_challenge_369_easy_hex_colors/
+
 def hex_color(red, green, blue):
     color = "#"
     color = color + pad_color(red)
