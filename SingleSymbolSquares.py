@@ -1,3 +1,5 @@
+#Challenge from https://www.reddit.com/r/dailyprogrammer/comments/9z3mjk/20181121_challenge_368_intermediate_singlesymbol/
+
 from random import randint
 
 square = [['X', 'X'], ['X', 'O']]
